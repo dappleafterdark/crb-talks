@@ -91,3 +91,7 @@ I know not everyone uses VIM at CRB, so this would need to have a slight 'why yo
 
 1. Trailing whitespace is shitty
   1. `set listchars=trail:💩` 
+
+1. Fixing a shell command
+  1. `^X^E` at the prompt to edit the command in `$EDITOR`
+  2. `fc` to edit the last command in `$EDITOR`
