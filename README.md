@@ -82,6 +82,7 @@ I know not everyone uses VIM at CRB, so this would need to have a slight 'why yo
   1. `s`
   2. `r`, `R`
   3. `xp`
+  4. `ddp` ( & `J`)
   4. `d`
   5. `c`
   6. `~`
